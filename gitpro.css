@@ -46,7 +46,7 @@
 }
 .proj p{
     margin-left: 20%;
-    font-size: 20px;
+    font-size: 10px;
     text-align: justify;
     margin-right: 55%;
     margin-top: 5%;
@@ -54,7 +54,7 @@
 .proj img{
     float: right;
     margin-right: 20%;
-    margin-top: -10%;
+    margin-top: -15%;
 }
 .para{
     width: auto;
@@ -68,7 +68,7 @@
 }
 .para p{
     margin-left: 20%;
-    font-size: 20px;
+    font-size: 10px;
     text-align: justify;
     margin-right: 55%;
     margin-top: 5%;
@@ -76,7 +76,7 @@
 .para img{
     float: right;
     margin-right: 20%;
-    margin-top: -10%;
+    margin-top: -15%;
 }
 .graph{
     width: auto;
@@ -89,7 +89,7 @@
     margin-top: -7%;
 }
 .graph p{
-    margin-left: 20%;
+    margin-left: 10%;
     font-size: 20px;
     text-align: justify;
     margin-right: 55%;
@@ -98,7 +98,7 @@
 .graph img{
     float: right;
     margin-right: 20%;
-    margin-top: -10%;
+    margin-top: -12%;
 }
 .footer h5{
     margin-left: 3%;
